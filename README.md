@@ -2,7 +2,7 @@
 
 A Java Swing-based desktop application for managing airline operations with MySQL database connectivity using JDBC.
 
-## 🚀 Features
+##  Features
 - **Flight Booking** – Search and reserve flights.
 - **Customer Management** – Add and store passenger details.
 - **Flight Information** – View schedules, routes, and fares.
@@ -11,12 +11,12 @@ A Java Swing-based desktop application for managing airline operations with MySQ
 - **Reservation Cancellation** – Cancel and update bookings.
 - **Secure Login** – Staff-only access.
 
-## 🛠 Tech Stack
+##  Tech Stack
 - **Language:** Java (Swing for GUI)
 - **Database:** MySQL
 - **Connectivity:** JDBC
 
-## 📦 Installation
+##  Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/airline-management-system.git
